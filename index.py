@@ -1,5 +1,3 @@
-# write a python program which is keep adding a stream of numbers inputted by the  user .
-# the adding stops as soon as user presses q key on the keyboard
 import tkinter as tk
 from tkinter import messagebox
 from datetime import datetime
